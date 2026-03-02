@@ -17,7 +17,7 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_id": "data",
+      "database_id": "827979cd-d505-4091-a20c-39001d0b5426",
       "migrations_dir": "migrations",
       "remote": true,
     },
